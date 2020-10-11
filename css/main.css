@@ -121,14 +121,14 @@ text-decoration: none;
 	.header__burger:after{
 		bottom: 0;
 	}
-	/*.header__burger.active span{
-		transform: scale(0);
-	}*/
-	/*.header__burger.active:before{
+	
+/*	.header__burger.active:before{
+		 display: inline-block;
 		transform: rotate(45deg);
 		top: 9px;
 	}
 	.header__burger.active:after{
+		 display: inline-block;
 		transform: rotate(-45deg);
 		bottom: 9px;
 	}*/
